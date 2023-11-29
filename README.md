@@ -11,9 +11,6 @@
   <a href="https://www.linkedin.com/in/pham-thanh-duy-705745284/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/thanhduy.pham.5496683" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
   <a href="mailto:duythanhpham2603@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
