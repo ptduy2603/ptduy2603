@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'am Duy 🌻</h1>
+<h1 align="center">Hi, I'am Duy </h1>
 
  - ✍ I'm a junior student at University of Information Technology (UIT).
  - ✍ I am learning MERN stack to become a web developer.
