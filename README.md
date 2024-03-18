@@ -29,7 +29,6 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 </p>
 
 ## Activities:
