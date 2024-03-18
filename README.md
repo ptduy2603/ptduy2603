@@ -1,6 +1,7 @@
 <h1 align="center">Hello, I am Duy </h1>
 
 ✍ I am a junior student at University of Information Technology (UIT).
+<br />
 ✍ I am learing MERN stack.
  
 <br />
