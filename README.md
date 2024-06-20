@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I am Duy </h1>
 
-✍ I am a junior student at University of Information Technology (UIT).
+✍ I am a senior student at University of Information Technology (UIT).
 <br />
 ✍ I am learing MERN stack.
  
@@ -19,16 +19,16 @@
 
 ## Skills:
 <p align="center">
-   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/sass-avatar.png" alt="sass-avatar"/>
+   <img width="48" height="48" src="https://img.icons8.com/color/48/sass-avatar.png" alt="sass-avatar"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
   <img width="48" height="48" src="https://img.icons8.com/external-others-amoghdesign/48/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png" alt="external-react-native-soleicons-fill-vol-1-others-amoghdesign"/>
   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-color-tal-revivo.png" alt="external-redux-an-open-source-javascript-library-for-managing-application-state-logo-color-tal-revivo"/>  
   <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/>
+ <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
 </p>
 
