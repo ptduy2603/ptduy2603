@@ -2,7 +2,7 @@
 
 ✍ I am a senior student at University of Information Technology (UIT).
 <br />
-✍ I am learing MERN stack.
+✍ I have learned MERN stack.
  
 <br />
 
