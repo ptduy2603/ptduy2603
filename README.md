@@ -1,18 +1,15 @@
 <h1 align="center">Hello, I am Duy </h1>
 
-✍ I am a senior student at University of Information Technology (UIT).
-<br />
-✍ I have learned MERN stack.
- 
-<br />
+🎓 Graduated from the University of Information Technology (UIT), VNU-HCM.  
+💻 Passionate about building real-world applications with modern web technologies. 
 
 ## 📫 Contact me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pham-thanh-duy-705745284/" target="_blank">
+  <a href="https://www.linkedin.com/in/pham-thanh-duy-705745284" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="mailto:duythanhpham2603@gmail.com" alt="Email">
+  <a href="mailto:duyphamdev.work@gmail.com" alt="Email" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
